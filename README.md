@@ -1,6 +1,6 @@
 # merry_christmas_app
 
-A new Flutter project.
+A new Flutter project. It is a basic Flutter application that generates random 10 lines of essay or we can say some message for the users wishing them merry christmas
 
 ## Getting Started
 
